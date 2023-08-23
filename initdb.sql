@@ -2,6 +2,7 @@ CREATE USER myuser;
 CREATE DATABASE mydb;
 GRANT ALL PRIVILEGES ON DATABASE mydb TO myuser;
 
+
 CREATE TABLE ejemplo
 (
     clave integer NOT NULL,
